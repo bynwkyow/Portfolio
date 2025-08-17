@@ -1,0 +1,28 @@
+{
+  "name": "example-with-tailwindcss",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@solidjs/router": "^0.15.0",
+    "@solidjs/start": "^1.1.0",
+    "clsx": "^2.1.1",
+    "solid-js": "^1.9.5",
+    "vinxi": "^0.5.7"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.1.4",
+    "@tailwindcss/vite": "^4.0.7",
+    "tailwindcss": "^4.0.7"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "trustedDependencies": [
+    "@parcel/watcher",
+    "@tailwindcss/oxide"
+  ]
+}
