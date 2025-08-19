@@ -45,7 +45,7 @@ The portfolio includes several key sections:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bynwkyowprofile.git
+   git clone https://github.com/bynwkyow/bynwkyowprofile.git
    cd bynwkyowprofile
    ```
 
